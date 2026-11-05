@@ -1,6 +1,14 @@
-# Python Mini Projects & Scripts
+# DSA-CPP 🚀
 
-A collection of Python programs, automation scripts, and mathematical utilities built during my B.Tech in Mathematics & Computing.
+Topic-wise Data Structures and Algorithms implementations in C++.
 
-## How to Run
-Run using: `python3 prime_sieve.py`
+## 📚 Topics Covered
+- Arrays & Strings
+- Linked Lists, Stacks & Queues
+- Trees & Graphs
+- Recursion & Dynamic Programming
+
+## 🛠️ How to Run
+1. Clone the repo: `git clone https://github.com`
+2. Compile any file: `g++ filename.cpp -o main`
+3. Run: `./main`
