@@ -1,14 +1,11 @@
-# DSA-CPP 🚀
+# Python-Projects 🐍
 
-Topic-wise Data Structures and Algorithms implementations in C++.
+Collection of Python utilities, automation scripts, and mini-projects.
 
-## 📚 Topics Covered
-- Arrays & Strings
-- Linked Lists, Stacks & Queues
-- Trees & Graphs
-- Recursion & Dynamic Programming
+## 🛠️ Tech Stack
+- Python 3.x
+- Built-in libraries & modules
 
-## 🛠️ How to Run
+## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com`
-2. Compile any file: `g++ filename.cpp -o main`
-3. Run: `./main`
+2. Run the script: `python filename.py`
